@@ -1,2 +1,2 @@
-# Pantomax.io
+# Pantomax
 Тестовое задание для Everad
